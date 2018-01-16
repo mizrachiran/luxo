@@ -15,6 +15,7 @@ You can customize any ESP8266 open source project to work with the luxo switch
 # Specification
 
 * ESP8266 (ESP-07) WLAN module
+* Wi-Fi 2.4GHz 802.11 b/g/n
 * 90-230V supply & I / O
 * 2x outputs 10A, L switched
 * 2x button connectors (to connect on \ off switches)
@@ -23,6 +24,7 @@ You can customize any ESP8266 open source project to work with the luxo switch
 * 1 CFG button to enable the module into the configuration mode or assign custom action via software.
 * 1 status LED
 * Programming header pins (TX, RX, RST, 3.3v, GPIO0, GND)
+* Size - 42 x 43 x 22 mm
 
 # Schematic
 
