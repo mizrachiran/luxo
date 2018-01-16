@@ -1,22 +1,22 @@
 # luxo switch
 
-The luxo switch is an ESP8266 based switch which can up to 2 appliances.
+The luxo switch is an ESP8266 based switch which can control up to 2 appliances.
 It was design to be integrate in existing setups where the module can be hidden behind existing wall switches to control light or outlets.
-The board support 90-230v input and outputs.
+The board support 90-240v input and outputs.
 
 # Software
 
-Luxo currently support 2 options:
+Luxo support the following software:
 * [Supla](https://www.supla.org/en/) - free cloud based open source software (offers ios & android apps)
 * [Tasmota](https://github.com/arendst/Sonoff-Tasmota) - firmeware for controlling over MQTT
 
-You can customize any ESP8266 open source project to work with the luxo switch
+However, You can customize any ESP8266 open source project to work with the luxo switch
 
 # Specification
 
-* ESP8266 (ESP-07) WLAN module
+* ESP8266 (ESP12E) WLAN module
 * Wi-Fi 2.4GHz 802.11 b/g/n
-* 90-230V supply & I / O
+* 90-240V I / O
 * 2x outputs 10A, L switched
 * 2x button connectors (to connect on \ off switches)
 * Tempreture sensor input (DS18B20, DHT11 or DHT22)
