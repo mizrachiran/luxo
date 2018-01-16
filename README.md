@@ -26,5 +26,5 @@ You can customize any ESP8266 open source project to work with the luxo switch
 
 # Schematic
 
-![Luxo schematic](https://github.com/mizrachiran/luxo/blob/master/Schematic.png)
+![Luxo schematic](https://raw.githubusercontent.com/mizrachiran/luxo/master/Schematic.png)
 
