@@ -8,7 +8,7 @@ The board support 90-230v input and outputs.
 
 Luxo currently support 2 options:
 * [Supla](https://www.supla.org/en/) - free cloud based open source software (offers ios & android apps)
-* [Tasmota](https://github.com/arendst/Sonoff-Tasmota) firmeware for controlling over MQTT
+* [Tasmota](https://github.com/arendst/Sonoff-Tasmota) - firmeware for controlling over MQTT
 
 You can customize any ESP8266 open source project to work with the luxo switch
 
