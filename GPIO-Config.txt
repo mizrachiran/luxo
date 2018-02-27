@@ -1,5 +1,5 @@
-GPIO0 - Programming
-GPIO2 - DHT22
+GPIO0 - Flash jumper
+GPIO2 - Sensor (e.g. DHT22 \ DHT11_
 GPIO4 - CFG Button
 GPIO5 - Relay D1
 GPIO12 - Button 1
