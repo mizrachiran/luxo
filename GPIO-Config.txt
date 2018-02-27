@@ -1,0 +1,8 @@
+GPIO0 - Programming
+GPIO2 - DHT22
+GPIO4 - CFG Button
+GPIO5 - Relay D1
+GPIO12 - Button 1
+GPIO13 - Relay D2
+GPIO14 - Button 2
+GPIO15 - Status LED
