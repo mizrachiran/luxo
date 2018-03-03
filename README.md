@@ -4,6 +4,8 @@ The luxo switch is an ESP8266 based switch which can control up to 2 appliances.
 It was design to be integrate in existing setups where the module can be hidden behind existing wall switches to control light or outlets.
 The board support 90-240v input and outputs.
 
+![Luxo 1](https://raw.githubusercontent.com/mizrachiran/luxo/master/product-images/side2.PNG)
+
 # Software
 
 Luxo support the following software:
