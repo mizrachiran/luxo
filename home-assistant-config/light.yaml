@@ -1,4 +1,4 @@
-  platform: mqtt
+- platform: mqtt
   name: "living_room_light"
   state_topic: "stat/luxo-3/POWER1"
   command_topic: "cmnd/luxo-3/POWER1"
@@ -8,4 +8,14 @@
   payload_off: "OFF"
   payload_available: "Online"
   payload_not_available: "Offline"
-  retain: true
+
+- platform: mqtt
+  name: "living_room_light2"
+  state_topic: "stat/luxo-3/POWER2"
+  command_topic: "cmnd/luxo-3/POWER2"
+  availability_topic: "tele/luxo-3/LWT"
+  qos: 1
+  payload_on: "ON"
+  payload_off: "OFF"
+  payload_available: "Online"
+  payload_not_available: "Offline"
